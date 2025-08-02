@@ -5,21 +5,26 @@
 
 #### 🎓 Sobre mí
 
-----------------
+Soy Jeampier Barrios, estudiante del último año de Ingeniería de Sistemas en la Universidad Nacional Tecnológica de Lima Sur (UNTELS). Desde los primeros ciclos de mi carrera descubrí una profunda motivación por el mundo de la ciberseguridad, lo que me llevó a especializarme en esta área. Actualmente me enfoco en pentesting, aplicando mis conocimientos para identificar y mitigar vulnerabilidades en sistemas y aplicaciones.
+
+Mi formación ha sido tanto académica como autodidacta, y siempre estoy en búsqueda de nuevos retos que me permitan seguir creciendo en este apasionante campo de la seguridad informática.
 
 #### 🌐 ¿Qué encontrarás aquí?
 
-----------------------------------------
+🚩 Writeups de distintas plataformas de ciberseguridad.
+🛠️ Scripts en Python y Bash para automatizar tareas de reconocimiento, enumeración y explotación.
+📚 Proyectos personales relacionados con seguridad ofensiva, Linux, y automatización.
+🤝 Contenido creado con el objetivo de aprender, compartir y contribuir con la comunidad de ciberseguridad.
 
 ### 📬 Contacto
 
 Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en temas de ciberseguridad o computación cuántica, o simplemente intercambiar ideas, puedes hacerlo a través de los siguientes canales:
 
-[![Email](https://img.shields.io/badge/Email-beafn23@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beafn23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Fresno%20Naumova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-fresno-naumova-3797b931b)
-[![GitHub](https://img.shields.io/badge/GitHub-beafn28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beafn28)
+[![Email](https://img.shields.io/badge/Email-jeampierbarrios04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beafn23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beatriz%20Fresno%20Naumova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeampierbq/)
+[![GitHub](https://img.shields.io/badge/GitHub-beafn28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeampierbq)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-beafn28-28a745?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2070042)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-beafn28-ff6f00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/beafn28)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-beafn28-ff6f00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/J34NK1NG)
 
 ## 🛡️ Ciberseguridad
 
