@@ -1,5 +1,5 @@
-# 👩‍💻 ¡Bienvenidos a mi GitHub!
-![Encabezado de GitHub](https://github.com/Jeampierbq/Jeampierbq/raw/main/Portada.jpg)
+# 👨‍💻 ¡Bienvenidos a mi GitHub!
+![Encabezado de GitHub](https://github.com/Jeampierbq/Jeampierbq/raw/main/Portada1.jpg)
 
 ### 🖥️ Whoami
 
