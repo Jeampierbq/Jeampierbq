@@ -19,13 +19,13 @@ Mi formación ha sido tanto académica como autodidacta, y siempre estoy en bús
 
 ### 📬 Contacto
 
-Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en temas de ciberseguridad o computación cuántica, o simplemente intercambiar ideas, puedes hacerlo a través de los siguientes canales:
+Si quieres ponerte en contacto conmigo para discutir proyectos, colaborar en temas de ciberseguridado simplemente intercambiar ideas, puedes hacerlo a través de los siguientes canales:
 
-[![Email](https://img.shields.io/badge/Email-jeampierbarrios04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beafn23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jeampierbarrios04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: jeampierbarrios04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeampier%20Barrios-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeampierbq/)
-[![GitHub](https://img.shields.io/badge/GitHub-beafn28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeampierbq)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-beafn28-28a745?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2070042)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-beafn28-ff6f00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/J34NK1NG)
+[![GitHub](https://img.shields.io/badge/GitHub-J34NK1NG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeampierbq)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-J34NK1NG-28a745?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2070042)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-J34NK1NG-ff6f00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/J34NK1NG)
 
 ## 🛡️ Ciberseguridad
 
